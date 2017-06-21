@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 366.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Anaconda/envs/trydjango110/src/analytics",
+		"/C/Anaconda/envs/trydjango110/src/kirr/hostsconf",
+		"/C/Anaconda/envs/trydjango110/src/shortener",
+		"/C/Anaconda/envs/trydjango110/src/shortener/templates",
+		"/C/Anaconda/envs/trydjango110/src/shortener/templates/shortener"
+	],
+	"file_history":
+	[
+		"/C/Anaconda/envs/trydjango110/src/kirr/settings.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/views.py",
+		"/C/Anaconda/envs/trydjango110/src/analytics/admin.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/models.py",
+		"/C/Anaconda/envs/trydjango110/src/kirr/urls.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/validators.py",
+		"/C/Anaconda/envs/trydjango110/src/analytics/models.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/forms.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/templates/shortener/already-exist.html",
+		"/C/Anaconda/envs/trydjango110/src/shortener/templates/shortener/success.html",
+		"/C/Anaconda/envs/trydjango110/src/shortener/templates/base.html",
+		"/C/Anaconda/envs/trydjango110/src/shortener/templates/shortener/home.html",
+		"/C/Anaconda/envs/trydjango110/src/shortener/utils.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Anaconda/envs/trydjango110/src/kirr/hosts.py",
+		"/C/Anaconda/envs/trydjango110/src/kirr/hostsconf/views.py",
+		"/C/Anaconda/envs/trydjango110/src/kirr/hostsconf/urls.py",
+		"/C/Anaconda/envs/trydjango110/src/kirr/hostsconf/__init__.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/management/commands/refreshcodes.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/managemanagement/commands/refreshcodes.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/admin.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/managemanagement/commands/__init__.py",
+		"/C/Anaconda/envs/trydjango110/src/shortener/managemanagement/__init__.py",
+		"/C/Anaconda/envs/yey/yey/yey_project/core/static/index.html",
+		"/C/Anaconda/envs/yey/yey/yey_project/core/templates/yey/home.html",
+		"/C/Anaconda/envs/yey/yey/yey_project/core/urls.py",
+		"/C/Anaconda/envs/yey/yey/yey_project/yey_project/urls.py",
+		"/C/Anaconda/envs/yey/yey/yey_project/core/static/js/custom.js",
+		"/C/Anaconda/envs/yey/yey/yey_project/core/static/css/login.css",
+		"/C/Anaconda/envs/yey/yey/yey_project/core/templates/base.html",
+		"/C/Users/Hassan Ismaila/Desktop/startbootstrap-half-slider-gh-pages/css/half-slider.css",
+		"/C/Anaconda/envs/hasmos/blogapp/static/css/styles.css",
+		"/C/Users/Hassan Ismaila/AppData/Local/Temp/Rar$EXa0.504/index.html",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/templates/includes/footer.html",
+		"/C/Users/Hassan Ismaila/Desktop/bllog/web/index.html",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/templates/includes/right_content.html",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/templates/posts/post_list.html",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/admin.py",
+		"/C/Users/Hassan Ismaila/Desktop/bllog/web/css/style.css",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/trydjango19/settings.py",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/forms.py",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/models.py",
+		"/C/Anaconda/envs/hasmos/blogapp/blogapp/urls.py",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/views.py",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/templates/posts/post_form.html",
+		"/C/Anaconda/envs/hasmos/blogapp/blogapp/settings.py",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/templates/includes/messages_display.html",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/urls.py",
+		"/C/Anaconda/envs/hasmos/blogapp/static/js/scripts.js",
+		"/C/Users/Hassan Ismaila/Desktop/bllog/web/js/move-top.js",
+		"/C/Users/Hassan Ismaila/Desktop/bllog/web/js/easing.js",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/posts/urls.py",
+		"/C/Anaconda/envs/hasmos/blogapp/posts/templates/base.html",
+		"/C/Anaconda/envs/hasmos/blogapp/blog/views.py",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/trydjango19/urls.py",
+		"/C/Anaconda/envs/hasmos/blogapp/blog/urls.py",
+		"/C/Anaconda/envs/hasmos/blogapp/blog/admin.py",
+		"/C/Anaconda/envs/hasmos/blogapp/blog/models.py",
+		"/C/Anaconda/envs/hasmos/blogapp/templates/base.html",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/posts/views.py",
+		"/C/Anaconda/envs/gssk04/gssk04project/core/models.py",
+		"/C/Anaconda/envs/gssk04/gssk04project/core/forms.py",
+		"/C/Anaconda/envs/gssk04/gssk04project/core/admin.py",
+		"/C/Users/Hassan Ismaila/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/Hassan Ismaila/AppData/Local/Temp/Rar$EXa0.073/web/index.html",
+		"/C/Users/Hassan Ismaila/AnacondaProjects/Blog_Project/blog/urls.py",
+		"/C/Users/Hassan Ismaila/AnacondaProjects/Blog_Project/hasmos/urls.py",
+		"/C/Users/Hassan Ismaila/AnacondaProjects/Blog_Project/hasmos/Blog Project",
+		"/C/Users/Hassan Ismaila/AnacondaProjects/Blog_Project/hasmos/settings.py",
+		"/C/Users/Hassan Ismaila/Desktop/bootsrt.css",
+		"/C/Users/Hassan Ismaila/Desktop/bootsrt",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/templates/post_detail.html",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/templates/post_list.html",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/templates/messages_display.html",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/posts/admin.py",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/templates/index.html",
+		"/C/Users/Hassan Ismaila/Desktop/trydjango19/templates/post_form.html",
+		"/C/Users/Hassan Ismaila/DjangoProjects/hasmos/hasmos/static/assets/css/styles-6.css",
+		"/C/Users/Hassan Ismaila/DjangoProjects/hasmos/hasmos/templates/base.html",
+		"/E/Download/downloadfile/orbit-v1.0/index.html",
+		"/C/Users/Hassan Ismaila/test.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"h4",
+			"single-main",
+			"single",
+			"content",
+			"url",
+			"src",
+			"blog",
+			"/\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "kirrproject.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
